@@ -1,0 +1,151 @@
+SECTION,NAME,HY_Q1,HY_Q2,HY_Q3,HY_Q4,HY_Q5,HY,PASS_FAIL_HY,HY_GRADE,Y_Q1,Y_Q2,Y_Q3,Y_Q4,Y_Q5,Y,PASS_FAIL_ANNUAL,Y_GRADE,Y_GRADE_ORIGINAL,IMPROVEMENT,PERFORMANCE SEGMENT,HY_Percentage,Annual_Percentage,Improvement_Percentage,Improvement_Status,Performance_Band,Risk_Level,Needs_Intervention,Consistency_Score,Strongest_Section,Weakest_Section,Growth_Category
+8N,AADIT SHARMA,14,7,15,11,10,57,PASS,B1,10,7.5,16.5,19,10,63,PASS,B1,B1,6,GROWTH,71.25,78.75,7.5,Improved,Good,Low,No,Moderate,Long Answer,2-Mark Questions,Moderate Growth
+8N,ABU HURAIRAH MOHAMMED,16,5.5,15,15.5,9,61,PASS,B1,12,8.5,10,6,6,42.5,PASS,C1,C1,-18.5,DECLINING,76.25,53.12,-23.13,Declined,Needs Improvement,Medium,No,Low,MCQ,Long Answer,Major Decline
+8N,AMEYA VINAYAK DESHMUKH,19,10,17,19,9,74,PASS,A1,15,4,13,14,6.5,52.5,PASS,B2,A2,-21.5,DECLINING,92.5,65.62,-26.88,Declined,Average,Medium,No,Low,MCQ,2-Mark Questions,Major Decline
+8N,ANAAYA SHARMA,12,7,5.5,9,5.5,39,FAIL,C2,15,9.5,8,16,4,52.5,PASS,B2,B2,13.5,GROWTH,48.75,65.62,16.87,Improved,Average,Medium,No,Low,Long Answer,Case Based,Significant Growth
+8N,ANAY PANI,13,6,10.5,9.5,7.5,46.5,PASS,C1,20,9.5,18,20,11,78.5,PASS,A1,A1,32,GROWTH,58.13,98.12,39.99,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,ARJUN DIWAKAR,19,10,18,20,10,77,PASS,A1,19,10,12.5,12,5,58.5,PASS,B1,A2,-18.5,DECLINING,96.25,73.12,-23.13,Declined,Average,Medium,No,Low,MCQ,Case Based,Major Decline
+8N,ASHRITH SAI VEERABATHINI,15,8,8,11,7,49,PASS,B2,20,8,17,18,10,73,PASS,A1,A1,24,GROWTH,61.25,91.25,30,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,ATHARV RACHURI,11,8,15,4,10,48,PASS,C1,18,8.5,17,17,8,68.5,PASS,A2,B1,20.5,GROWTH,60,85.62,25.62,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8N,B SAI ADHITHRI,17,7.5,11,16,6.5,58,PASS,B1,20,8.5,16,13,12,69.5,PASS,A2,B1,11.5,GROWTH,72.5,86.88,14.38,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,BIDYASHA PANDA,15,8.5,15,14.5,9,62,PASS,B1,18,10,10,9,8,55,PASS,B2,B2,-7,DECLINING,77.5,68.75,-8.75,Declined,Average,Medium,No,Moderate,MCQ,Case Based,Slight Decline
+8N,BIMUDI RISHITH REDDY,16,10,15.5,16,10,67.5,PASS,A2,17,10,18,20,12,77,PASS,A1,A1,9.5,GROWTH,84.38,96.25,11.87,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8N,CHANDRA ULLAS VARADA,16,9,17,17,10.5,69.5,PASS,A2,17,5.5,18,15,10,65.5,PASS,B1,A2,-4,DECLINING,86.88,81.88,-5,Stable,Good,Low,No,High,3-Mark Questions,2-Mark Questions,Stable
+8N,ESHAAN SHARMA,8,8.5,9,17,5.5,48,PASS,C1,6,10,1.5,7.5,4.5,29.5,FAIL,D,D,-18.5,DECLINING,60,36.88,-23.12,Declined,At Risk,High,Yes,Low,2-Mark Questions,3-Mark Questions,Major Decline
+8N,GONU JOANNA ESTHER,8,1,1,0,0.5,10.5,FAIL,E2,20,4.5,14,20,11,69.5,PASS,A2,B1,59,GROWTH,13.12,86.88,73.76,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,IJOY BHATTACHARJEE,20,10,18,20,12,80,PASS,A1,19,10,12.5,12,6,59.5,PASS,B1,A2,-20.5,DECLINING,100,74.38,-25.62,Declined,Average,Medium,No,Low,MCQ,Case Based,Major Decline
+8N,JIGISHAA,9,2.5,1,4.5,3,20,FAIL,E1,20,7.5,17,16,11,71.5,PASS,A2,B1,51.5,GROWTH,25,89.38,64.38,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,KALAM SAI SADVIK REDDY,12,7,9.5,18,6,52.5,PASS,B2,18,10,11,11,3,53,PASS,B2,B2,0.5,GROWTH,65.62,66.25,0.63,Stable,Average,Medium,No,High,MCQ,Case Based,Stable
+8N,KANISHK RAJ ADHIKARI,19,9,16,18.5,8,70.5,PASS,A2,16,6.5,13,20,8,63.5,PASS,B1,A2,-7,DECLINING,88.12,79.38,-8.74,Declined,Good,Low,No,Moderate,Long Answer,2-Mark Questions,Slight Decline
+8N,KASHISH HARISH LAKHWANI,6,9,8.5,10,2,35.5,FAIL,C2,17,7,14,10,6.5,54.5,PASS,B2,B2,19,GROWTH,44.38,68.12,23.74,Improved,Average,Medium,No,Low,MCQ,Case Based,Significant Growth
+8N,KIEARA KHADIJAH,13,10,15,15,11.5,64.5,PASS,B1,9,7.5,10.5,10,7,44,PASS,C1,C1,-20.5,DECLINING,80.62,55,-25.62,Declined,Needs Improvement,Medium,No,Low,3-Mark Questions,Case Based,Major Decline
+8N,KOVIDH KRISHNA SUTRAVE,11,8.5,13,10.5,3.5,46.5,PASS,C1,16,5,13,11,5,50,PASS,B2,B2,3.5,GROWTH,58.13,62.5,4.37,Stable,Average,Medium,No,High,MCQ,2-Mark Questions,Stable
+8N,MARAM VIKRAM REDDY,16,8,16.5,15,9,64.5,PASS,B1,11,9.5,4,8,6,38.5,FAIL,C2,C2,-26,DECLINING,80.62,48.12,-32.5,Declined,Needs Improvement,High,Yes,Low,MCQ,3-Mark Questions,Major Decline
+8N,MUNTAHA BATOOL,16,10,15.5,18,7,66.5,PASS,A2,10,10,16,15,3,54,PASS,B2,A2,-12.5,DECLINING,83.12,67.5,-15.62,Declined,Average,Medium,No,Low,3-Mark Questions,Case Based,Major Decline
+8N,NARLA SUHAAS,15,6.5,13,18,7,59.5,PASS,B1,20,10,12.5,20,8,70.5,PASS,A2,B1,11,GROWTH,74.38,88.12,13.74,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8N,NIREK YOGESH JANGLE,13,9.5,8.5,16.5,6,53.5,PASS,B2,16,9.5,18,18,11,72.5,PASS,A2,B1,19,GROWTH,66.88,90.62,23.74,Improved,Excellent,Low,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8N,ADVAITH PATKURI,12,7,12,13,7,51,PASS,B2,16,10,17,20,12,75,PASS,A1,A1,24,GROWTH,63.75,93.75,30,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8N,RUPAL PATTNAIK,14,6.5,13.5,12,10,56,PASS,B2,17,5.5,18,19.5,9,69,PASS,A2,B1,13,GROWTH,70,86.25,16.25,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8N,SAI MEDHANSH DEVATHA,15,8,14,14,6,57,PASS,B1,20,8.5,9.5,10,4,52,PASS,B2,B2,-5,DECLINING,71.25,65,-6.25,Declined,Average,Medium,No,Moderate,MCQ,Case Based,Slight Decline
+8N,SHAIK MOHAMMAD HUSSAIN SARVAR,20,10,18,20,12,80,PASS,A1,16,7.5,16,16,8,63.5,PASS,B1,A2,-16.5,DECLINING,100,79.38,-20.62,Declined,Good,Low,No,Low,MCQ,2-Mark Questions,Major Decline
+8N,SHARAD BASAWARAJ ALUR,11,4,11.5,8,8,42.5,PASS,C1,15,8,11.5,10.5,8,53,PASS,B2,B2,10.5,GROWTH,53.12,66.25,13.13,Improved,Average,Medium,No,Low,MCQ,2-Mark Questions,Significant Growth
+8N,SIDDHANT CHAKRAVORTY,8,6,9,9,5,37,FAIL,C2,18,10,14,20,9,71,PASS,A2,B1,34,GROWTH,46.25,88.75,42.5,Improved,Good,Low,No,Low,Long Answer,Case Based,Significant Growth
+8N,SUJAY SABHARWAL,5,4.5,2.5,6.5,8.5,27,FAIL,D,7,9.5,15,17,7,55.5,PASS,B2,B2,28.5,GROWTH,33.75,69.38,35.63,Improved,Average,Medium,No,Low,Long Answer,MCQ,Significant Growth
+8N,TEJANISH MADUPATHI,10,10,15,20,5.5,60.5,PASS,B1,8,8.5,13,17.5,3.5,50.5,PASS,B2,B2,-10,DECLINING,75.62,63.12,-12.5,Declined,Average,Medium,No,Low,Long Answer,Case Based,Major Decline
+8N,VIHAAN CHOUDHARY,18,9.5,17,20,10,74.5,PASS,A1,17,9,15.5,16,9,66.5,PASS,A2,A2,-8,DECLINING,93.12,83.12,-10,Declined,Good,Low,No,Moderate,MCQ,2-Mark Questions,Slight Decline
+8N,YASHEE,19,10,16,20,11,76,PASS,A1,16,10,17,20,12,75,PASS,A1,A1,-1,DECLINING,95,93.75,-1.25,Stable,Excellent,Low,No,High,Long Answer,2-Mark Questions,Stable
+8N,YEDDANAPUDI JEYAN,19,8.5,18,20,10,75.5,PASS,A1,10,10,17,20,12,69,PASS,A2,A2,-6.5,DECLINING,94.38,86.25,-8.13,Declined,Good,Low,No,Moderate,Long Answer,MCQ,Slight Decline
+8N,ISHAAN SAJJAN GADAPA,14,7.5,7,14,8,50.5,PASS,B2,17,5,15,17,10.5,64.5,PASS,B1,B1,14,GROWTH,63.12,80.62,17.5,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,AARADHYA REDDY BHEEMIDI,14,5.5,6,8.5,7.5,41.5,PASS,C1,14,4,7.5,3.5,2.5,31.5,FAIL,D,D,-10,DECLINING,51.88,39.38,-12.5,Declined,At Risk,High,Yes,Low,MCQ,Case Based,Major Decline
+8Q,ADVIK MOJUMDER,17,10,18,16.5,11.5,73,PASS,A1,11,8,10,8,2,39,FAIL,C2,A2,-34,DECLINING,91.25,48.75,-42.5,Declined,Needs Improvement,High,Yes,Low,MCQ,Case Based,Major Decline
+8Q,AKUTHOTA SAI CHARITHA,12,5,6,9.5,6.5,39,FAIL,C2,10,9,15,19,9,62,PASS,B1,B1,23,GROWTH,48.75,77.5,28.75,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,AMAN SHARMA,17,10,15,19,12,73,PASS,A1,20,7.5,15,14,10.5,67,PASS,A2,A2,-6,DECLINING,91.25,83.75,-7.5,Declined,Good,Low,No,Moderate,MCQ,2-Mark Questions,Slight Decline
+8Q,ANIHA VOJJALA,15,10,16.5,16,12,69.5,PASS,A2,17,10,17,20,10.5,74.5,PASS,A1,A1,5,GROWTH,86.88,93.12,6.24,Improved,Excellent,Low,No,Moderate,Long Answer,2-Mark Questions,Moderate Growth
+8Q,ARNAV BASWESHWAR GUJAR,12,9,12.5,16.5,8,58,PASS,B1,20,10,18,20,10,78,PASS,A1,A1,20,GROWTH,72.5,97.5,25,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,AVANAGANTI DHARUN REDDY,14,5,5.5,7.5,5.5,37.5,FAIL,C2,20,10,16,19.5,12,77.5,PASS,A1,A1,40,GROWTH,46.88,96.88,50,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,BOKKALA DHRITHI REDDY,13,2.5,2.5,4.5,5,27.5,FAIL,D,12,10,18,20,12,72,PASS,A2,B1,44.5,GROWTH,34.38,90,55.62,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,CAMALA SRESHTA SREE,12,8,14,18,10,62,PASS,B1,12,10,17,15.5,11.5,66,PASS,A2,B1,4,GROWTH,77.5,82.5,5,Stable,Good,Low,No,High,3-Mark Questions,2-Mark Questions,Stable
+8Q,CH CHARVIK SHOURYA,15,7,15,15.5,10.5,63,PASS,B1,20,9.5,12,16.5,4,62,PASS,B1,B1,-1,DECLINING,78.75,77.5,-1.25,Stable,Good,Low,No,High,MCQ,Case Based,Stable
+8Q,CHITTIPAKA SANKEERTH SHRISHANK,13,9.5,13,13,6,54.5,PASS,B2,20,10,16,20,12,78,PASS,A1,A1,23.5,GROWTH,68.12,97.5,29.38,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,DEEKSHA SAHASRA MADDELA,12,5.5,9.5,8,3,38,FAIL,C2,9,9.5,17,20,11.5,67,PASS,A2,B1,29,GROWTH,47.5,83.75,36.25,Improved,Good,Low,No,Low,Long Answer,MCQ,Significant Growth
+8Q,DHRUVANSH DAS VAISHNAV,16,9,16.5,15.5,9,66,PASS,A2,18,7,7.5,6.5,4.5,43.5,PASS,C1,A2,-22.5,DECLINING,82.5,54.37,-28.13,Declined,Needs Improvement,Medium,No,Low,MCQ,Case Based,Major Decline
+8Q,FAIZZA KHAN,6,5,13,6.5,8.5,39,FAIL,C2,13,10,18,19.5,12,72.5,PASS,A2,B1,33.5,GROWTH,48.75,90.62,41.87,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,K RITHVIK NAIK,11,6,7.5,9,5.5,39,FAIL,C2,19,9.5,17.5,19.5,10,75.5,PASS,A1,A1,36.5,GROWTH,48.75,94.38,45.63,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,K VIVIN GOUD,11,5.5,9,10,10,45.5,PASS,C1,15,10,18,20,12,75,PASS,A1,A1,29.5,GROWTH,56.88,93.75,36.87,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,KONIDALA JESHNAVI,17,9,13.5,17,10.5,67,PASS,A2,17,10,17,20,9.5,73.5,PASS,A1,A1,6.5,GROWTH,83.75,91.88,8.13,Improved,Excellent,Low,No,Moderate,Long Answer,Case Based,Moderate Growth
+8Q,LAKSHMI SRUJANA CHIRRAVURI,12,8.5,9.5,9,10.5,49.5,PASS,B2,9,10,16.5,19,10,64.5,PASS,B1,B1,15,GROWTH,61.88,80.62,18.74,Improved,Good,Low,No,Low,Long Answer,MCQ,Significant Growth
+8Q,LEISHA KIRAN,7,2.5,8,5,8,30.5,FAIL,D,12,9.5,16.5,18,12,68,PASS,A2,B1,37.5,GROWTH,38.12,85,46.88,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,MOHAMMAD SAUD MANSURI,11,6.5,8,8.5,2.5,36.5,FAIL,C2,12,6.5,7.5,9.5,7.5,43,PASS,C1,C1,6.5,GROWTH,45.62,53.75,8.13,Improved,Needs Improvement,Medium,No,Moderate,MCQ,2-Mark Questions,Moderate Growth
+8Q,NISHKA REDDY CHAPPIDI,11,7,14,12,7.5,51.5,PASS,B2,7,10,16,20,9,62,PASS,B1,B1,10.5,GROWTH,64.38,77.5,13.12,Improved,Good,Low,No,Low,Long Answer,MCQ,Significant Growth
+8Q,OBULASETTY SAIRAM RITHVIK,18,10,18,20,11.5,77.5,PASS,A1,17,7.5,12.5,19.5,9.5,66,PASS,A2,A2,-11.5,DECLINING,96.88,82.5,-14.38,Declined,Good,Low,No,Low,Long Answer,2-Mark Questions,Major Decline
+8Q,PETETI NIHAL JESWIN,10,2.5,2.5,6,7.5,28.5,FAIL,D,20,4.5,4,6.5,2,37,FAIL,C2,C2,8.5,GROWTH,35.62,46.25,10.63,Improved,Needs Improvement,High,Yes,Low,MCQ,Case Based,Significant Growth
+8Q,RAM MANAS PRASAD PRATHIPATI,9,4.5,4.5,9,6,33,FAIL,C2,16,10,18,19,12,75,PASS,A1,A1,42,GROWTH,41.25,93.75,52.5,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,RUPKATHA JANA,20,10,16.5,18.5,9,74,PASS,A1,14,10,16.5,19.5,11,71,PASS,A2,A2,-3,DECLINING,92.5,88.75,-3.75,Stable,Good,Low,No,High,Long Answer,2-Mark Questions,Stable
+8Q,SAMUDRALA SAHARSH,13,6,4.5,3,6.5,33,FAIL,C2,17,9,17.5,20,8,71.5,PASS,A2,B1,38.5,GROWTH,41.25,89.38,48.13,Improved,Good,Low,No,Low,Long Answer,Case Based,Significant Growth
+8Q,SANVIKA REDDY,13,4,6.5,9,9.5,42,PASS,C1,16,10,18,16.5,10,70.5,PASS,A2,B1,28.5,GROWTH,52.5,88.12,35.62,Improved,Good,Low,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8Q,SHOURYA LAHOTI,5,5.5,9,5.5,3.5,28.5,FAIL,D,17,10,18,19.5,12,76.5,PASS,A1,A1,48,GROWTH,35.62,95.62,60,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,SIDHARTH ABILASH,18,9,17,20,7,71,PASS,A2,18,9.5,15.5,15.5,8,66.5,PASS,A2,A2,-4.5,DECLINING,88.75,83.12,-5.63,Declined,Good,Low,No,Moderate,MCQ,Case Based,Slight Decline
+8Q,SIDHARTH MALLELA,19,10,16.5,18.5,9.5,73.5,PASS,A1,18,10,14,19.5,8,69.5,PASS,A2,A2,-4,DECLINING,91.88,86.88,-5,Stable,Good,Low,No,High,Long Answer,Case Based,Stable
+8Q,TANVI PULLA,11,3.5,5,3.5,5.5,28.5,FAIL,D,16,10,14.5,20,11,71.5,PASS,A2,B1,43,GROWTH,35.62,89.38,53.76,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,TWISHA REDDY VANGETI,13,6,12.5,13,6,50.5,PASS,B2,11,4,7.5,7,5.5,35,FAIL,C2,C2,-15.5,DECLINING,63.12,43.75,-19.37,Declined,Needs Improvement,High,Yes,Low,MCQ,2-Mark Questions,Major Decline
+8Q,VANGALA TAKSHU RYAAN GOUD,13,9.5,15,14,8,59.5,PASS,B1,16,1.5,2.5,12,3,35,FAIL,C2,C2,-24.5,DECLINING,74.38,43.75,-30.63,Declined,Needs Improvement,High,Yes,Low,MCQ,2-Mark Questions,Major Decline
+8Q,P SHOURY REEDY,11,8,6.5,0,2,27.5,FAIL,D,20,10,13.5,16.5,8,68,PASS,A2,B1,40.5,GROWTH,34.38,85,50.62,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8Q,V SRI NAYAN,11,1.5,2,9,4,27.5,FAIL,D,19,10,18,15.5,10,72.5,PASS,A2,B1,45,GROWTH,34.38,90.62,56.24,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,T HANSHIT,12,7,5.5,0.5,8,33,FAIL,C2,18,7.5,11,10.5,5,52,PASS,B2,B2,19,GROWTH,41.25,65,23.75,Improved,Average,Medium,No,Low,MCQ,Case Based,Significant Growth
+8E,A ROHITH VARSHA AKKINA,10,7,9,18,7.5,51.5,PASS,B2,13,10,15,15,10,63,PASS,B1,B1,11.5,GROWTH,64.38,78.75,14.37,Improved,Good,Low,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8E,AARUSHI GOUD,19,10,15.5,19.5,10,74,PASS,A1,15,9.5,15.5,19.5,11,70.5,PASS,A2,A2,-3.5,DECLINING,92.5,88.12,-4.38,Stable,Good,Low,No,High,Long Answer,2-Mark Questions,Stable
+8E,ALLAMULA AAKRUTHI,13,8,11,9,5,46,PASS,C1,12,8.5,12,11,6.5,50,PASS,B2,B2,4,GROWTH,57.5,62.5,5,Stable,Average,Medium,No,High,MCQ,Case Based,Stable
+8E,ALWALA SAI TANAV,10,7.5,8.5,12,7.5,45.5,PASS,C1,13,8.5,14,17,10,62.5,PASS,B1,B1,17,GROWTH,56.88,78.12,21.24,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,ANANYA JONNALAGADDA,12,5.5,9.5,6,7,40,PASS,C2,12,6,5,1.5,3.5,28,FAIL,D,D,-12,DECLINING,50,35,-15,Declined,At Risk,High,Yes,Low,MCQ,Long Answer,Major Decline
+8E,ANCHIT KUMAR VENISHETTY,18,10,17,18,12,75,PASS,A1,9,3.5,6,12.5,8.5,39.5,FAIL,C2,A2,-35.5,DECLINING,93.75,49.38,-44.37,Declined,Needs Improvement,High,Yes,Low,Long Answer,2-Mark Questions,Major Decline
+8E,ARTHIKA NAGA,11,8,5,8,4.5,36.5,FAIL,C2,15,10,18,20,11,74,PASS,A1,A1,37.5,GROWTH,45.62,92.5,46.88,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,AVULA SASHYAK,11,1.5,2.5,4,2,21,FAIL,E1,14,9,18,18.5,7.5,67,PASS,A2,B1,46,GROWTH,26.25,83.75,57.5,Improved,Good,Low,No,Low,Long Answer,Case Based,Significant Growth
+8E,BANDARI GOWTHAMSAI,14,6.5,3.5,8,3,35,FAIL,C2,12,5.5,4,8.5,4,34,FAIL,C2,C2,-1,DECLINING,43.75,42.5,-1.25,Stable,Needs Improvement,High,Yes,High,MCQ,3-Mark Questions,Stable
+8E,BATTULA VISWA TEJA,9,6,4,10,4.5,33.5,FAIL,C2,12,10,16,20,9.5,67.5,PASS,A2,B1,34,GROWTH,41.88,84.38,42.5,Improved,Good,Low,No,Low,Long Answer,Case Based,Significant Growth
+8E,BELLAM AAKASH,11,8.5,11,11,3.5,45,PASS,C1,14,6,11.5,12,10.5,54,PASS,B2,B2,9,GROWTH,56.25,67.5,11.25,Improved,Average,Medium,No,Low,MCQ,2-Mark Questions,Significant Growth
+8E,BODA PRERAN KUMAR,16,10,17,19.5,10.5,73,PASS,A1,5,8.5,10,11,9.5,44,PASS,C1,A2,-29,DECLINING,91.25,55,-36.25,Declined,Needs Improvement,Medium,No,Low,Long Answer,MCQ,Major Decline
+8E,CHITUKULA LAKSHMI LOUKYA,7,3.5,0,1.5,8,20,FAIL,E1,8,6,6.5,5,8.5,34,FAIL,C2,C2,14,GROWTH,25,42.5,17.5,Improved,Needs Improvement,High,Yes,Low,Case Based,Long Answer,Significant Growth
+8E,ERANAGURI LAXMIABHISTA,15,10,16.5,18,7,66.5,PASS,A2,17,10,18,20,12,77,PASS,A1,A1,10.5,GROWTH,83.12,96.25,13.13,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,GARREPALLI CHARVI,12,6,5,13,6.5,42.5,PASS,C1,10,8,10,13,6,47,PASS,C1,C1,4.5,GROWTH,53.12,58.75,5.63,Improved,Needs Improvement,Medium,No,Moderate,Long Answer,Case Based,Moderate Growth
+8E,GATTU SHRUTALY GUPTA,8,3,3,4.5,3,21.5,FAIL,E1,13,9,11.5,13.5,11.5,58.5,PASS,B1,B1,37,GROWTH,26.88,73.12,46.24,Improved,Average,Medium,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,K NAMRATA PRIYA,10,7,11,9,6,43,PASS,C1,12,7.5,7,11.5,5.5,43.5,PASS,C1,C1,0.5,GROWTH,53.75,54.37,0.62,Stable,Needs Improvement,Medium,No,High,MCQ,Case Based,Stable
+8E,KALIEDINDI SRI KARRTHIKA,18,10,12.5,14,7.5,62,PASS,B1,15,4,14,11,5,49,PASS,B2,B2,-13,DECLINING,77.5,61.25,-16.25,Declined,Average,Medium,No,Low,MCQ,2-Mark Questions,Major Decline
+8E,KATIPALLY GOWRI TANMAYI,17,8,16,19,7.5,67.5,PASS,A2,13,7.5,12.5,15,9,57,PASS,B1,A2,-10.5,DECLINING,84.38,71.25,-13.13,Declined,Average,Medium,No,Low,Long Answer,2-Mark Questions,Major Decline
+8E,KEERTHI SAMRITHI,10,4.5,3,7.5,6,31,FAIL,D,19,10,18,18.5,12,77.5,PASS,A1,A1,46.5,GROWTH,38.75,96.88,58.13,Improved,Excellent,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8E,K. KARTHIKA,7,2.5,2.5,5.5,2,19.5,FAIL,E1,15,9,9.5,12.5,7.5,53.5,PASS,B2,B2,34,GROWTH,24.38,66.88,42.5,Improved,Average,Medium,No,Low,MCQ,Case Based,Significant Growth
+8E,KUTHURU LAHARI KENISHA REDDY,15,8,15.5,11,8,57.5,PASS,B1,11,7.5,11,13.5,9,52,PASS,B2,B2,-5.5,DECLINING,71.88,65,-6.88,Declined,Average,Medium,No,Moderate,Long Answer,2-Mark Questions,Slight Decline
+8E,L SUHSANK REDDY,9,6.5,9.5,8,2,35,FAIL,C2,11,6.5,12.5,12.5,8,50.5,PASS,B2,B2,15.5,GROWTH,43.75,63.12,19.37,Improved,Average,Medium,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8E,L SHREYAS,10,5,4.5,10,3,32.5,FAIL,D,5,3,4.5,11.5,6,30,FAIL,D,D,-2.5,DECLINING,40.62,37.5,-3.12,Stable,At Risk,High,Yes,High,Long Answer,2-Mark Questions,Stable
+8E,M AADHYA,16,2,9,6,4,37,FAIL,C2,14,8,10,15,7,54,PASS,B2,B2,17,GROWTH,46.25,67.5,21.25,Improved,Average,Medium,No,Low,Long Answer,Case Based,Significant Growth
+8E,MUTHYALA VEDHANSH REDDY,8,8.5,11.5,16.5,7,51.5,PASS,B2,13,6,15,19.5,9,62.5,PASS,B1,B1,11,GROWTH,64.38,78.12,13.74,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,N ASHIRYA THULASI,11,3.5,4.5,10,4.5,33.5,FAIL,C2,10,10,17.5,19.5,11,68,PASS,A2,B1,34.5,GROWTH,41.88,85,43.12,Improved,Good,Low,No,Low,Long Answer,MCQ,Significant Growth
+8E,NAYAN GUNTAKA,11,4.5,5,4.5,2.5,27.5,FAIL,D,8,3.5,7.5,6.5,5.5,31,FAIL,D,D,3.5,GROWTH,34.38,38.75,4.37,Stable,At Risk,High,Yes,High,MCQ,2-Mark Questions,Stable
+8E,P KUNDUN,13,2,7,0,5,27,FAIL,D,16,10,13.5,19.5,12,71,PASS,A2,B1,44,GROWTH,33.75,88.75,55,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,PADI SAI SIDDARTH REDDY,17,9.5,17.5,19.5,9,72.5,PASS,A2,9,5,12,7.5,8.5,42,PASS,C1,A2,-30.5,DECLINING,90.62,52.5,-38.12,Declined,Needs Improvement,Medium,No,Low,3-Mark Questions,2-Mark Questions,Major Decline
+8E,P HANSITH,11,6.5,3,10,6,36.5,FAIL,C2,7,8.5,11,14.5,7.5,48.5,PASS,C1,C1,12,GROWTH,45.62,60.62,15,Improved,Average,Medium,No,Low,Long Answer,MCQ,Significant Growth
+8E,PRATHEEKA K,7,0,0.5,5.5,2.5,15.5,FAIL,E2,15,9,14,17.5,11,66.5,PASS,A2,B1,51,GROWTH,19.38,83.12,63.74,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,RAJANENI PRATEIK,13,2,6,8,3.5,32.5,FAIL,D,13,5,7.5,8.5,6.5,40.5,PASS,C2,C2,8,GROWTH,40.62,50.62,10,Improved,Needs Improvement,Medium,No,Moderate,MCQ,2-Mark Questions,Moderate Growth
+8E,SONNAILA GAYATHRI KRISHNA,15,5.5,5,13,2.5,41,PASS,C1,11,8.5,15,18.5,10.5,63.5,PASS,B1,B1,22.5,GROWTH,51.25,79.38,28.13,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,TANVI T,11,7.5,12.5,14,7,52,PASS,B2,16,9.5,17,18.5,11.5,72.5,PASS,A2,B1,20.5,GROWTH,65,90.62,25.62,Improved,Excellent,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,VAAHINI PEDDI,14,10,18,19.5,11.5,73,PASS,A1,16,7.5,14.5,12.5,7.5,58,PASS,B1,A2,-15,DECLINING,91.25,72.5,-18.75,Declined,Average,Medium,No,Low,MCQ,2-Mark Questions,Major Decline
+8E,VAISHNAVI PILLALAMARRI,12,3,4,9.5,6.5,35,FAIL,C2,15,10,14,19.5,3.5,62,PASS,B1,B1,27,GROWTH,43.75,77.5,33.75,Improved,Good,Low,No,Low,Long Answer,Case Based,Significant Growth
+8E,YASHASVI PRIYAMVADA AKELLA,5,2.5,0,2,2,11.5,FAIL,E2,9,0,7.5,10,1.5,28,FAIL,D,D,16.5,GROWTH,14.37,35,20.63,Improved,At Risk,High,Yes,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,ABHEERAM REDDY,14,3,11.5,9,5,42.5,PASS,C1,14,7.5,15,11.5,9,57,PASS,B1,B1,14.5,GROWTH,53.12,71.25,18.13,Improved,Average,Medium,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8E,KARAMPUDI ASHWA SHEERSH,4,1,0,0,2,7,FAIL,E2,12,7,13,12.5,8,52.5,PASS,B2,B2,45.5,GROWTH,8.75,65.62,56.87,Improved,Average,Medium,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8E,JALA SHARAN,12,6.5,4,5.5,6,34,FAIL,C2,14,2.5,3.5,2.5,5,27.5,FAIL,D,D,-6.5,DECLINING,42.5,34.38,-8.12,Declined,At Risk,High,Yes,Moderate,MCQ,2-Mark Questions,Slight Decline
+8N,RUDRA,16,7.5,15.5,20,7,66,PASS,A2,15,10,16.5,13,9.5,64,PASS,B1,B1,-2,DECLINING,82.5,80,-2.5,Stable,Good,Low,No,High,3-Mark Questions,Case Based,Stable
+8N,PIHU JOSHI,12,6.5,13.5,4,3,39,FAIL,C2,13,6.5,15,11,4,49.5,PASS,B2,B2,10.5,GROWTH,48.75,61.88,13.13,Improved,Average,Medium,No,Low,3-Mark Questions,Case Based,Significant Growth
+8N,DHRUV IYER,20,7.5,13,6.5,6,53,PASS,B2,16,6,15,12.5,7,56.5,PASS,B2,B2,3.5,GROWTH,66.25,70.62,4.37,Stable,Average,Medium,No,High,MCQ,2-Mark Questions,Stable
+8N,VIKRAM,11,10,12.5,8.5,10,52,PASS,B2,11,8.5,6,9.5,8.5,43.5,PASS,C1,C1,-8.5,DECLINING,65,54.37,-10.63,Declined,Needs Improvement,Medium,No,Low,MCQ,3-Mark Questions,Major Decline
+8N,GAYATRI GOWDA,17,8,12,12.5,3.5,53,PASS,B2,13,7.5,18,16.5,3,58,PASS,B1,B1,5,GROWTH,66.25,72.5,6.25,Improved,Average,Medium,No,Moderate,3-Mark Questions,Case Based,Moderate Growth
+8N,VIHAAN NAIDU,15,7,9,17,10.5,58.5,PASS,B1,19,7,12.5,16.5,11,66,PASS,A2,A2,7.5,GROWTH,73.12,82.5,9.38,Improved,Good,Low,No,Moderate,MCQ,2-Mark Questions,Moderate Growth
+8N,KAVYA RAMAN,12,7.5,7,8,10,44.5,PASS,C1,20,8,17.5,16.5,6,68,PASS,A2,A2,23.5,GROWTH,55.62,85,29.38,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8N,VIHAAN,15,10,12.5,20,0.5,58,PASS,B1,19,8.5,12.5,15.5,2.5,58,PASS,B1,B1,0,GROWTH,72.5,72.5,0,Stable,Average,Medium,No,High,MCQ,Case Based,Stable
+8N,ANIKA,13,8.5,19.5,11.5,5.5,58,PASS,B1,14,10,15,13,9.5,61.5,PASS,B1,B1,3.5,GROWTH,72.5,76.88,4.38,Stable,Good,Low,No,High,3-Mark Questions,Case Based,Stable
+8N,SWATI KRISHNAN,14,10,9,12.5,6.5,52,PASS,B2,10,9,15,15,7.5,56.5,PASS,B2,B2,4.5,GROWTH,65,70.62,5.62,Improved,Average,Medium,No,Moderate,3-Mark Questions,Case Based,Moderate Growth
+8N,AARAV GOWDA,8,7,11,10,7.5,43.5,PASS,C1,17,10,14.5,16.5,8,66,PASS,A2,A2,22.5,GROWTH,54.37,82.5,28.13,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8N,AAROHI SINGH,6,7.5,12.5,20,7,53,PASS,B2,17,8.5,9.5,20,10,65,PASS,B1,B1,12,GROWTH,66.25,81.25,15,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8N,PRANAV MISHRA,17,6,19,6.5,9.5,58,PASS,B1,20,6.5,11.5,15.5,6.5,60,PASS,B1,B1,2,GROWTH,72.5,75,2.5,Stable,Good,Low,No,High,MCQ,2-Mark Questions,Stable
+8Q,YASH BHATT,8,7,5,13.5,5,38.5,FAIL,C2,20,7,13,20,5,65,PASS,B1,B1,26.5,GROWTH,48.12,81.25,33.13,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8Q,AVNI,14,10,2.5,12,8.5,47,PASS,C1,18,6,8.5,19,10,61.5,PASS,B1,B1,14.5,GROWTH,58.75,76.88,18.13,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,ISHA VENKATESH,14,7.5,7,12.5,8.5,49.5,PASS,B2,13,10,16.5,10.5,11,61,PASS,B1,B1,11.5,GROWTH,61.88,76.25,14.37,Improved,Good,Low,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8Q,SAMEER NAIDU,10,9,16,6.5,10,51.5,PASS,B2,17,10,20,15,6.5,68.5,PASS,A2,A2,17,GROWTH,64.38,85.62,21.24,Improved,Good,Low,No,Low,3-Mark Questions,Case Based,Significant Growth
+8Q,VANYA,10,4.5,10,13,8.5,46,PASS,C1,19,8.5,20,15,12,74.5,PASS,A1,A1,28.5,GROWTH,57.5,93.12,35.62,Improved,Excellent,Low,No,Low,3-Mark Questions,2-Mark Questions,Significant Growth
+8Q,KEERTHANA,15,4.5,5,13.5,7,45,PASS,C1,18,9.5,14,12,4,57.5,PASS,B1,B1,12.5,GROWTH,56.25,71.88,15.63,Improved,Average,Medium,No,Low,MCQ,Case Based,Significant Growth
+8Q,DEEPTI RAO,11,9,11.5,4,8,43.5,PASS,C1,17,7,15,16.5,5,60.5,PASS,B1,B1,17,GROWTH,54.37,75.62,21.25,Improved,Good,Low,No,Low,MCQ,Case Based,Significant Growth
+8Q,KAVYA SYED,14,8,16,17,4,59,PASS,B1,12,10,16.5,19,12,69.5,PASS,A2,A2,10.5,GROWTH,73.75,86.88,13.13,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,PARI IYER,15,9.5,15,14.5,6.5,60.5,PASS,B1,18,7,13.5,14,9,61.5,PASS,B1,B1,1,GROWTH,75.62,76.88,1.26,Stable,Good,Low,No,High,MCQ,2-Mark Questions,Stable
+8Q,PIHU TIWARI,20,2,14,2,6.5,44.5,PASS,C1,20,9,9.5,12.5,11,62,PASS,B1,B1,17.5,GROWTH,55.62,77.5,21.88,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,MANAV BHATT,10,7.5,10.5,7.5,12,47.5,PASS,C1,18,4.5,15,13,11.5,62,PASS,B1,B1,14.5,GROWTH,59.38,77.5,18.12,Improved,Good,Low,No,Low,MCQ,2-Mark Questions,Significant Growth
+8Q,SIYA RAO,10,6.5,13,16,4.5,50,PASS,B2,14,7.5,11.5,20,10,63,PASS,B1,B1,13,GROWTH,62.5,78.75,16.25,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8Q,DIYA,9,9,20,17,3.5,58.5,PASS,B1,14,10,11,18.5,11.5,65,PASS,B1,B1,6.5,GROWTH,73.12,81.25,8.13,Improved,Good,Low,No,Moderate,Long Answer,2-Mark Questions,Moderate Growth
+8Q,TARA,10,6.5,0,5,7,28.5,FAIL,D,11,10,8,14,9,52,PASS,B2,B2,23.5,GROWTH,35.62,65,29.38,Improved,Average,Medium,No,Low,Long Answer,3-Mark Questions,Significant Growth
+8E,SHREYA MISHRA,17,1.5,14.5,10,3,46,PASS,C1,14,8,9.5,14,7,52.5,PASS,B2,B2,6.5,GROWTH,57.5,65.62,8.12,Improved,Average,Medium,No,Moderate,MCQ,Case Based,Moderate Growth
+8E,BHAVYA KAPOOR,12,8,17,3,11.5,51.5,PASS,B2,6,7,14.5,15,6.5,49,PASS,B2,B2,-2.5,DECLINING,64.38,61.25,-3.13,Stable,Average,Medium,No,High,Long Answer,MCQ,Stable
+8E,KAVYA GUPTA,11,4.5,5,15,6.5,42,PASS,C1,10,9.5,13,17.5,10,60,PASS,B1,B1,18,GROWTH,52.5,75,22.5,Improved,Good,Low,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,NEHA SIYA RAO,9,4,12,13.5,5.5,44,PASS,C1,13,10,9.5,16.5,7.5,56.5,PASS,B2,B2,12.5,GROWTH,55,70.62,15.62,Improved,Average,Medium,No,Low,Long Answer,Case Based,Significant Growth
+8E,CHITRA KAPOOR,11,9,12.5,15,9,56.5,PASS,B2,12,9,10.5,15,8,54.5,PASS,B2,B2,-2,DECLINING,70.62,68.12,-2.5,Stable,Average,Medium,No,High,Long Answer,Case Based,Stable
+8E,RITHVIK PANDEY,12,7.5,3.5,20,3,46,PASS,C1,9,10,15,16.5,10,60.5,PASS,B1,B1,14.5,GROWTH,57.5,75.62,18.12,Improved,Good,Low,No,Low,Long Answer,MCQ,Significant Growth
+8E,ISHA,12,3,8.5,6.5,8.5,38.5,FAIL,C2,12,5.5,10.5,15.5,6.5,50,PASS,B2,B2,11.5,GROWTH,48.12,62.5,14.38,Improved,Average,Medium,No,Low,Long Answer,2-Mark Questions,Significant Growth
+8E,AVNI MENON,9,6.5,9.5,7.5,4.5,37,FAIL,C2,13,4,6,10,7.5,40.5,PASS,C2,C2,3.5,GROWTH,46.25,50.62,4.37,Stable,Needs Improvement,Medium,No,High,MCQ,2-Mark Questions,Stable
+8E,BHAVYA VENKATESH,13,10,13,9.5,5.5,51,PASS,B2,9,7.5,10.5,15,6,48,PASS,C1,C1,-3,DECLINING,63.75,60,-3.75,Stable,Average,Medium,No,High,Long Answer,Case Based,Stable
