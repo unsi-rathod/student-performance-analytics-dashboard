@@ -1,17 +1,17 @@
 # Student Performance Analytics Dashboard
 
-An end-to-end analytics pipeline that cleans, engineers, and visualizes academic performance data for 150 students across 3 sections — built to flag at-risk students early, pinpoint exactly which question types (comprehension vs. execution gaps) need intervention, and generate AI-assisted coaching notes for teachers.
+An end-to-end analytics pipeline that cleans, engineers, and visualizes academic performance data for 150 students across 3 sections — built to flag at-risk students early, pinpoint exactly which question types (comprehension vs. execution gaps) need intervention, and generate coaching notes for teachers.
 
 ## Overview
 
-Raw exam data (Half-Yearly and Annual, broken down by question type: MCQ, 2-Mark, 3-Mark, Long Answer, Case Based) is cleaned and validated, then engineered into analytical features — performance bands, risk levels, growth categories, and question-level skill gaps — and surfaced in a 4-page interactive Power BI dashboard. A lightweight LLM-powered prototype then turns the flagged at-risk students into short, personalized intervention notes for teachers.
+Raw exam data (Half-Yearly and Annual, broken down by question type: MCQ, 2-Mark, 3-Mark, Long Answer, Case Based) is cleaned and validated, then engineered into analytical features — performance bands, risk levels, growth categories, and question-level skill gaps — and surfaced in a 4-page interactive Power BI dashboard. A rule-based intervention note generator then turns the flagged at-risk students into short, personalized coaching notes for teachers.
 
 ## Tech Stack
 
 - **Python (pandas)** — data cleaning and feature engineering
 - **SQL** — data validation and exploratory analysis queries
 - **Power BI (DAX)** — interactive dashboard with custom measures for normalized scoring, section benchmarking, and gap analysis
-- **Claude API (Anthropic)** — AI-assisted intervention note generation
+- **Python (rule-based logic)** — AI-assisted intervention note generation, designed to optionally plug into the Claude API
 
 ## Pipeline
 
@@ -31,7 +31,7 @@ SQL validation & analysis → data_validation.sql, performance_analysis.sql, gro
 Power BI Dashboard (4 pages)
       │
       ▼
-generate_intervention_notes.py → AI-generated coaching notes for flagged students
+generate_intervention_notes.py → coaching notes for flagged students
 ```
 
 ## Key Findings
@@ -60,19 +60,17 @@ HY-to-Annual scatter analysis, growth category breakdown, and top improving/decl
 ![Question-Wise Skill Gap](screenshots/Question_Wise_Skill_Gap_Intervention.png)
 Normalized (max-scorer-relative) performance heatmap by section and question type, strongest/weakest question type distribution, and a priority intervention list ranked by how far each student sits below their own section's average.
 
-## AI-Assisted Intervention Notes (Prototype)
+## AI-Assisted Intervention Notes
 
-`scripts/generate_intervention_notes.py` takes the students flagged `Needs_Intervention == 'Yes'` and generates a short, data-grounded coaching note for each one using the Claude API. Each note explicitly classifies the student's weakest question type as either a **comprehension gap** (MCQ / 2-Mark weakness — can't recognize or recall the concept) or an **execution gap** (Long Answer / Case Based weakness — understands the concept but struggles to apply or articulate it), and suggests one concrete next step for the teacher.
+`scripts/generate_intervention_notes.py` takes the students flagged `Needs_Intervention == "Yes"` and generates a short, data-grounded coaching note for each one. Each note classifies the student's weakest question type as either a **comprehension gap** (MCQ / 2-Mark weakness — can't recognize or recall the concept) or an **execution gap** (Long Answer / Case Based weakness — understands the concept but struggles to apply or articulate it), and suggests one concrete next step for the teacher.
 
-The script includes a rule-based fallback so it runs and produces output even without an API key — useful for demoing the logic without requiring credentials.
+Runs out of the box with a rule-based note generator — no setup or API key required:
 
 ```bash
-pip install anthropic
-export ANTHROPIC_API_KEY=your_key_here
 python scripts/generate_intervention_notes.py
 ```
 
-Output is saved to `outputs/intervention_notes.csv`.
+The script is also built to optionally call the Claude API for more nuanced, LLM-written notes if an `ANTHROPIC_API_KEY` is available — see the script's docstring for details.
 
 ## Repository Structure
 
@@ -92,11 +90,10 @@ Output is saved to `outputs/intervention_notes.csv`.
 pip install pandas numpy
 python scripts/data_cleaning.py
 python scripts/feature_engineering.py
+python scripts/generate_intervention_notes.py
 ```
 
 Then open `dashboard/student.pbix` in Power BI Desktop to explore the full interactive report.
-
-To generate AI-assisted intervention notes, see the [AI-Assisted Intervention Notes](#ai-assisted-intervention-notes-prototype) section above.
 
 ## Author
 
