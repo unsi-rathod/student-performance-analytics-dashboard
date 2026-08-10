@@ -49,11 +49,11 @@ KPI overview — total students, pass rate, average improvement, intervention co
 Side-by-side section performance, annual grade distribution, average improvement, and consistency scoring.
 
 ### 3. Growth & Improvement
-![Growth & Improvement](screenshots/Growth_&_Improvement.png)
+![Growth & Improvement](screenshots/Growth_Improvement.png)
 HY-to-Annual scatter analysis, growth category breakdown, and top improving/declining student watchlists.
 
 ### 4. Question-Wise Skill Gap & Intervention
-![Question-Wise Skill Gap](screenshots/Question-wise_Skill_Gap_&_Intervention.png)
+![Question-Wise Skill Gap](screenshots/Question_Wise_Skill_Gap_Intervention.png)
 Normalized (max-scorer-relative) performance heatmap by section and question type, strongest/weakest question type distribution, and a priority intervention list ranked by how far each student sits below their own section's average.
 
 ## Repository Structure
