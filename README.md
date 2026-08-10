@@ -41,19 +41,19 @@ Power BI Dashboard (4 pages)
 ## Dashboard Pages
 
 ### 1. Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+![Executive Summary](screenshots/Executive_Summary.png)
 KPI overview — total students, pass rate, average improvement, intervention count — plus performance band, risk level, and improvement status breakdowns.
 
 ### 2. Section Comparison
-![Section Comparison](screenshots/page2_section_comparison.png)
+![Section Comparison](screenshots/Section_Comparison.png)
 Side-by-side section performance, annual grade distribution, average improvement, and consistency scoring.
 
 ### 3. Growth & Improvement
-![Growth & Improvement](screenshots/page3_growth_improvement.png)
+![Growth & Improvement](screenshots/Growth_&_Improvement.png)
 HY-to-Annual scatter analysis, growth category breakdown, and top improving/declining student watchlists.
 
 ### 4. Question-Wise Skill Gap & Intervention
-![Question-Wise Skill Gap](screenshots/page4_skill_gap.png)
+![Question-Wise Skill Gap](screenshots/Question-wise_Skill_Gap_&_Intervention.png)
 Normalized (max-scorer-relative) performance heatmap by section and question type, strongest/weakest question type distribution, and a priority intervention list ranked by how far each student sits below their own section's average.
 
 ## Repository Structure
